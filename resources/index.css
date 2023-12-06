@@ -146,4 +146,6 @@ h3 {
     #welcome-desktop {display: none}
     #desktop-mail-link {display: none;}
     #mobile-mail-link {display: inline;}
+    html {height: auto;}
+    body {min-height: auto;}
   }
